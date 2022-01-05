@@ -22,6 +22,19 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 
+#### 📈 GitHub stats:
+
+<a href="https://github.com/chaseholt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaseholt&hide=issues,stars&show_icons=true&theme=vision-friendly-dark" />
+</a>
+
+</br>
+
+<a href="https://github.com/chaseholt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaseholt&layout=compact&theme=vision-friendly-dark&hide=Ruby&card_width=448" />
+</a>
+
+
 
   
 
