@@ -7,6 +7,10 @@
 
 - 💬 If you want to say hi, [shoot me a message](mailto:chaseholt@orc3.com).
 
+<a href="https://chaseholt.netlify.app">
+  - Check out my portfolio site!
+ </a>
+
 - ⚙️ Languages & Tools:
 
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
