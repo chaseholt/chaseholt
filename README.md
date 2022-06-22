@@ -1,4 +1,4 @@
-### Hi everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 - 🧑‍💻 I'm Chase, a full stack software engineer  
 - 🤖 I am a Fullstack Academy graduate and currently pursuing a degree in computer science from the University of Utah 🖼️ 
