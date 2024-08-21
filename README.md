@@ -2,7 +2,7 @@
 
 - 🧑‍💻 I'm Chase, a full stack software engineer  
 - 🤖 I am a Fullstack Academy graduate and currently pursuing a degree in computer science from the University of Utah 🖼️ 
-- 🔭 I’m currently working for CivicEye as a Software Engineer.
+- 🔭 I’m currently working as a Freelance Software Engineer.
 - When I'm not coding, I'm skiing, boating, or studying for school. 
 
 - 💬 If you want to say hi, [shoot me a message](mailto:chaseholt@orc3.com).
