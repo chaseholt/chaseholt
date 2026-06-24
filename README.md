@@ -3,7 +3,7 @@
 - 🧑‍💻 I'm Chase, a full stack software engineer  
 - 🤖 I am a Fullstack Academy graduate as well as getting my degree in computer science from the University of Utah 🖼️ 
 - 🔭 I’m currently working as a Freelance Software Engineer.
-- When I'm not coding, I'm skiing, boating, or studying for school. 
+- When I'm not coding, I'm skiing, boating, or training for my next marathon! 
 
 - 💬 If you want to say hi, [shoot me a message](mailto:chaseholt@orc3.com).
 
