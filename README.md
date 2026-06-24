@@ -1,7 +1,7 @@
 ### Hi everyone!
 
 - 🧑‍💻 I'm Chase, a full stack software engineer  
-- 🤖 I am a Fullstack Academy graduate and currently pursuing a degree in computer science from the University of Utah 🖼️ 
+- 🤖 I am a Fullstack Academy graduate as well as getting my degree in computer science from the University of Utah 🖼️ 
 - 🔭 I’m currently working as a Freelance Software Engineer.
 - When I'm not coding, I'm skiing, boating, or studying for school. 
 
